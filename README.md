@@ -4,6 +4,7 @@
 - [layer](https://athm-fe.github.io/layer/)
 - [tab](https://athm-fe.github.io/tab/)
 - [slide](https://athm-fe.github.io/slide/)
+- [floornav](https://athm-fe.github.io/floornav/)
 
 ## Tools
 
