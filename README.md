@@ -6,6 +6,7 @@
 - 轮播图 [slide](https://athm-fe.github.io/slide/)
 - 电梯导航 [floornav](https://athm-fe.github.io/floornav/)
 - 懒加载 [lazyload](https://athm-fe.github.io/lazyload/)
+- 模版引擎 [template](https://athm-fe.github.io/template/)
 
 ## Tools
 
