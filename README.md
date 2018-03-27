@@ -92,11 +92,15 @@ https://s.autoimg.cn/fe/topbar/logo.png
 
 ![](https://s.autoimg.cn/fe/topbar/logo.png)
 
+https://s.autoimg.cn/fe/topbar/logo_2x.png
+
 ![](https://s.autoimg.cn/fe/topbar/logo_2x.png)
 
 https://s.autoimg.cn/fe/topbar/logo_mini.png
 
 ![](https://s.autoimg.cn/fe/topbar/logo_mini.png)
+
+https://s.autoimg.cn/fe/topbar/logo_mini_2x.png
 
 ![](https://s.autoimg.cn/fe/topbar/logo_mini_2x.png)
 
@@ -104,10 +108,14 @@ https://s.autoimg.cn/fe/topbar/logo_h.png
 
 ![](https://s.autoimg.cn/fe/topbar/logo_h.png)
 
+https://s.autoimg.cn/fe/topbar/logo_h_2x.png
+
 ![](https://s.autoimg.cn/fe/topbar/logo_h_2x.png)
 
 https://s.autoimg.cn/fe/topbar/logo_white_h.png
 
 ![](https://s.autoimg.cn/fe/topbar/logo_white_h.png)
+
+https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png
 
 ![](https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png)
