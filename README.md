@@ -15,6 +15,7 @@
 - 电梯导航 [floornav](https://athm-fe.github.io/floornav/)
 - 懒加载 [lazyload](https://athm-fe.github.io/lazyload/)
 - 模版引擎 [template](https://athm-fe.github.io/template/)
+- 分享 [share](https://athm-fe.github.io/share/)
 
 业务控件
 
