@@ -16,6 +16,7 @@
 - 懒加载 [lazyload](https://athm-fe.github.io/lazyload/)
 - 模版引擎 [template](https://athm-fe.github.io/template/)
 - 分享 [share](https://athm-fe.github.io/share/)
+- 吸顶 [sticky](https://athm-fe.github.io/sticky/)
 
 业务控件
 
