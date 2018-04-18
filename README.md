@@ -2,9 +2,19 @@
 
 库
 
-- seajs
-- jquery
-- zepto
+- auto `https://s.autoimg.cn/as/auto-0.2.0.min.js`
+- seajs 老版本 `https://s.autoimg.cn/as/js-2.0.5/sea.js`
+- seajs 2.3.0 `https://s.autoimg.cn/as/seajs/2.3.0/bundle.js`
+- jQuery 1.7.2 `https://s.autoimg.cn/as/jquery/1.7.2/jquery.js`
+- jQuery 1.12.4 `https://s.autoimg.cn/as/jquery/1.12.4/jquery.js`
+- jQuery 3.3.1 `https://s.autoimg.cn/as/jquery/3.3.1/jquery.js`
+
+待定
+- jQuery `https://s.autoimg.cn/as/static/js/jquery-1.7.2.min.js`
+- zepto `https://s.autoimg.cn/as/static/js/zepto-1.2.min.js`
+- socket.io `https://s.autoimg.cn/as/static/js/socket.io-1.4.5.js`
+- createjs `https://s.autoimg.cn/as/static/js/createjs-2015.11.26.min.js`
+- md5 `https://s.autoimg.cn/as/static/js/md5.js` 和 `https://s.autoimg.cn/as/static/js/md5.min.js`
 
 基础控件
 
@@ -25,6 +35,7 @@
     `/m/js/v2.6.18/user/userhelper.min.js`
     `/m/js/v2.6.18/user/userlogin.min.js`
     `/m/js/v2.6.18/public/base.min.js`
+- 
 - 品牌车系车型下拉 [carpicker](https://athm-fe.github.io/carpicker/)
 
 ## Tools
