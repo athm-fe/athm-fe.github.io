@@ -127,8 +127,14 @@ https://s.autoimg.cn/fe/topbar/logo_h_2x.png
 
 https://s.autoimg.cn/fe/topbar/logo_white_h.png
 
-![](https://s.autoimg.cn/fe/topbar/logo_white_h.png)
+<p>黑色背景用于方便展示图片</p>
+<p style="background-color:#000">
+  <img src="https://s.autoimg.cn/fe/topbar/logo_white_h.png">
+</p>
 
 https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png
 
-![](https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png)
+<p>黑色背景用于方便展示图片</p>
+<p style="background-color:#000">
+  <img src="https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png">
+</p>
