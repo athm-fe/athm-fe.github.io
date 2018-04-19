@@ -91,7 +91,10 @@ https://s.autoimg.cn/as/static/holdimg_white.png
 
 https://s.autoimg.cn/as/static/holdimg_black.png
 
-![](https://s.autoimg.cn/as/static/holdimg_black.png)
+<p>黑色背景用于方便展示图片</p>
+<p style="background-color:#000">
+  <img src="https://s.autoimg.cn/as/static/holdimg_black.png">
+</p>
 
 1x1全透明图
 
@@ -127,8 +130,14 @@ https://s.autoimg.cn/fe/topbar/logo_h_2x.png
 
 https://s.autoimg.cn/fe/topbar/logo_white_h.png
 
-![](https://s.autoimg.cn/fe/topbar/logo_white_h.png)
+<p>黑色背景用于方便展示图片</p>
+<p style="background-color:#000">
+  <img src="https://s.autoimg.cn/fe/topbar/logo_white_h.png">
+</p>
 
 https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png
 
-![](https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png)
+<p>黑色背景用于方便展示图片</p>
+<p style="background-color:#000">
+  <img src="https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png">
+</p>
