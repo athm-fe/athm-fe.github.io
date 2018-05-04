@@ -2,7 +2,6 @@
 
 库
 
-- auto `https://s.autoimg.cn/as/auto-0.2.0.min.js`
 - seajs 老版本 `https://s.autoimg.cn/as/js-2.0.5/sea.js`
 - seajs 2.3.0 `https://s.autoimg.cn/as/seajs/2.3.0/bundle.js`
 - jQuery 1.7.2 `https://s.autoimg.cn/as/jquery/1.7.2/jquery.js`
@@ -27,15 +26,17 @@
 - 模版引擎 [template](https://athm-fe.github.io/template/)
 - 分享 [share](https://athm-fe.github.io/share/)
 - 吸顶 [sticky](https://athm-fe.github.io/sticky/)
+- 返顶 [gotop](https://athm-fe.github.io/gotop/)
 
 业务控件
 
-- 工具库 https://s.autoimg.cn/fe/auto/index.0.1.0.js
-    `/m/js/v2.6.18/area/areautil.js`
-    `/m/js/v2.6.18/user/userhelper.min.js`
-    `/m/js/v2.6.18/user/userlogin.min.js`
-    `/m/js/v2.6.18/public/base.min.js`
-- 
+- 工具库
+  - https://s.autoimg.cn/fe/auto/index.0.1.0.js
+  - auto `https://s.autoimg.cn/as/auto-0.2.0.min.js`
+  - `/m/js/v2.6.18/area/areautil.js`
+  - `/m/js/v2.6.18/user/userhelper.min.js`
+  - `/m/js/v2.6.18/user/userlogin.min.js`
+  - `/m/js/v2.6.18/public/base.min.js`
 - 品牌车系车型下拉 [carpicker](https://athm-fe.github.io/carpicker/)
 
 ## Tools
