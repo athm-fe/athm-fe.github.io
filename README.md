@@ -105,40 +105,17 @@ https://s.autoimg.cn/www/common/images/blank.gif
 
 ### Logo
 
-https://s.autoimg.cn/fe/topbar/logo.png
+http://z.autoimg.cn/fe/topbar21/logo_home_2x.png
 
-![](https://s.autoimg.cn/fe/topbar/logo.png)
+![](http://z.autoimg.cn/fe/topbar21/logo_home_2x.png)
 
-https://s.autoimg.cn/fe/topbar/logo_2x.png
+http://z.autoimg.cn/fe/topbar21/logo_mini_2x.png
 
-![](https://s.autoimg.cn/fe/topbar/logo_2x.png)
+![](http://z.autoimg.cn/fe/topbar21/logo_mini_2x.png?v=2)
 
-https://s.autoimg.cn/fe/topbar/logo_mini.png
-
-![](https://s.autoimg.cn/fe/topbar/logo_mini.png)
-
-https://s.autoimg.cn/fe/topbar/logo_mini_2x.png
-
-![](https://s.autoimg.cn/fe/topbar/logo_mini_2x.png)
-
-https://s.autoimg.cn/fe/topbar/logo_h.png
-
-![](https://s.autoimg.cn/fe/topbar/logo_h.png)
-
-https://s.autoimg.cn/fe/topbar/logo_h_2x.png
-
-![](https://s.autoimg.cn/fe/topbar/logo_h_2x.png)
-
-https://s.autoimg.cn/fe/topbar/logo_white_h.png
+http://z.autoimg.cn/fe/topbar21/logo_white_mini_2x.png
 
 <p>黑色背景用于方便展示图片</p>
 <p style="background-color:#000">
-  <img src="https://s.autoimg.cn/fe/topbar/logo_white_h.png">
-</p>
-
-https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png
-
-<p>黑色背景用于方便展示图片</p>
-<p style="background-color:#000">
-  <img src="https://s.autoimg.cn/fe/topbar/logo_white_h_2x.png">
+  <img src="http://z.autoimg.cn/fe/topbar21/logo_white_mini_2x.png?v=2">
 </p>
